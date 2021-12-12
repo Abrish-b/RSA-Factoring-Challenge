@@ -1,3 +1,7 @@
+/*
+ * Ported GeeksforGeeks Pollard-Rho to run with C90 compiler
+ */
+
 #include "rsa.h"
 
 /* Function to calculate (base^exponent)%modulus */
